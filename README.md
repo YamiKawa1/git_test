@@ -1,0 +1,1 @@
+This is yamikawa's first git project!
